@@ -2,7 +2,9 @@
 
 ## How this tutorial works.
 
-This tutorial will cover the steps in adding [react.rb](http://reactrb.org) and react components (written in Ruby of course) to a simple rails Todo app.
+This tutorial will cover the steps in adding [react.rb](http://reactrb.org) and react components (written in Ruby of course) to a simple rails Todo app. 
+
+![](todo-chapter-1.png?raw=true)
 
 The tutorial is organized as a series of tagged branches in this repo.  You are currently on the `master` branch, which is the introduction (i.e. chapter 1).
 

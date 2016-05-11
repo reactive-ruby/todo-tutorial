@@ -133,7 +133,7 @@ If all has gone well you should be able to run:
 
 which will check that everything was installed, and that the Todo model is accessible on the client!
 
-For the next instructions : [Chapter 2 - Our first React.rb Component](/README_CHAPTER_2.md)
+For the next instructions : [Chapter 2 - Our first React.rb Component](https://github.com/reactive-ruby/todo-tutorial/blob/chapter-2/README.md)
 
 
 ### How it works :

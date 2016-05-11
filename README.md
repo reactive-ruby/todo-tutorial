@@ -47,6 +47,8 @@ Now create a new rails in the directory with this command:
 
 `rails new -T --skip-spring .`
 
+*rails is going to complain because the repo already has created the .gitignore file, so just say `n` when rails asks you if it wants you to overwrite*
+
 The `-T` option will skip creating the unit-test directory, and the `--skip-spring` skips installing spring which does not seem to work well
 with some of the test harnesses.
 
